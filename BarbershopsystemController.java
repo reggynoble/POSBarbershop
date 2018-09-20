@@ -23,8 +23,8 @@ public class BarbershopsystemController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        System.out.println("You clicked me!");
-        label.setText("Hello World!");
+        System.out.println("Welcome!");
+        label.setText("Welcome!");
     }
     
     @Override
